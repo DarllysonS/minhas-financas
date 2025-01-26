@@ -1,4 +1,4 @@
-# Minhas Finanças - Projeto Final
+# Minhas Finanças
 
 Este projeto é uma aplicação web de controle de finanças pessoais. Ele permite o registro de transações financeiras, como depósitos e gastos, exibindo o saldo atual e o histórico de transações. O projeto utiliza o **JSON Server** para simular uma API RESTful, e faz uso de conceitos como **assíncronicidade**, **promises**, **tratamento de erros** e **comunicação via HTTP**.
 
